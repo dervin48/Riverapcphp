@@ -1,6 +1,6 @@
 <?php 
 
-$servidor="mysql:id17788761_riverapc;localhost:3307";
+$servidor="mysql:id17788761_riverapc;databases.000webhost.com";
 $usuario="id17788761_root";
 $password="Jutiapa1232020@";
 
